@@ -1,2 +1,2 @@
 # github_test
-first wokr with github
+first work with github
