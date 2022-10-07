@@ -4,3 +4,5 @@
 
 **git clone https://github.com/timtylerr/github_test.git** *- скопировал на ПК свой облачный репозиторий*
 
+git push -u origin main - скопировал свой репозиторий на github
+
